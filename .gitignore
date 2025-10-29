@@ -9,3 +9,10 @@ social_ai_frontend/.env
 node_modules/
 dist/
 build/
+social_ai_frontend/.env
+.env
+.env.*
+node_modules/
+dist/
+build/
+.DS_Store
